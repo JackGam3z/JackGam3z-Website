@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>
+				My First Website
+			</title>
+   			<link rel="stylesheet" href="normalize.css">
+    		<link rel="stylesheet" href="style.css">
+		</head>
+	<body>
+		<header class="site-header clearfix">
+			<h1>
+				My First Website
+			</h1>
+			<nav class="main-nav">
+				<ul>
+					<li><a href="index.html">Home</a>
+					<li><a href="about.html">About</a>
+				</ul>
+			</nav>
+		</header>
+	<main>
+		<p class="intro-text">Trust fund gastropub yuccie, tousled lomo helvetica scenester farm-to-table kogi. Sriracha mustache meh, portland hoodie normcore celiac chambray pinterest chia before they sold out poutine kinfolk. Butcher vice fingerstache, mumblecore brooklyn pork belly venmo craft beer sriracha. Tousled fixie fanny pack VHS umami cray, DIY cronut try-hard polaroid blue bottle gochujang single-origin coffee actually tilde. XOXO tofu vinyl aesthetic. Tousled direct trade brunch, vice shoreditch four dollar toast food truck hoodie thundercats banjo. Marfa fashion axe kale chips stumptown tofu.</p>
+		<p><a href="#footer">footer</a></p>
+		<img src="http://lorempixel.com/200/200/sports/1">
+		<img src="http://lorempixel.com/200/200/sports/2">
+		<img src="http://lorempixel.com/200/200/sports/3">
+	</main>
+	<footer>
+		<p id="footer">Footer</p>
+	</footer>
+</body>
+</html>
+
+<!-- This is a comment //-->>
