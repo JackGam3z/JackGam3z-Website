@@ -4,9 +4,11 @@
 			<title>
 				JackGam3z Webpage
 			</title>
-		<link rel="stylesheet" href="style.css">
+		<link rel="stylesheet" href="style.css" href="Normailzer.css">
 		</head>
 		<body>
+			<header class="site-header clearfix">
+			
 				
 		</body>
 		<footer>
